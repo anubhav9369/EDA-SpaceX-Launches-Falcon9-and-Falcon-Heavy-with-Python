@@ -8,6 +8,12 @@ Dataset1 Link (Kaggle): https://www.kaggle.com/datasets/sagarvarandekar/spacex-f
 Dataset2 Link (Kaggle): https://www.kaggle.com/datasets/heyrobin/space-x-launches-falcon9-and-falcon-heavy
 
 ### About the Dataset
+Space Exploration Technologies Corp. (SpaceX) is an American aerospace manufacturer, space transportation services.
+
+Falcon 9 is a rocket that can carry cargo and humans into Earth orbit, even reaching the International Space Station. It is produced by American aerospace company SpaceX. Technically, it is a partially reuseable, medium lift launch vehicle.
+
+Falcon Heavy is a partially reusable heavy-lift launch vehicle that is produced by SpaceX, an American aerospace manufacturer.
+
 
 ### import
 ```Python
